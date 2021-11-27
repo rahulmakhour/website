@@ -1,0 +1,44 @@
+.members {
+    font-family: "Montserrat", sans-serif;
+    color: #8d97ad;
+    font-weight: 300;
+}
+
+.members h1,
+.members h2,
+.members h3,
+.members h4,
+.members h5,
+.members h6 {
+    color: #3e4555;
+}
+
+.members .font-weight-medium {
+    font-weight: 500;
+}
+
+.members .bg-light {
+    background-color: #f4f8fa !important;
+}
+
+.members .subtitle {
+    color: #8d97ad;
+    line-height: 24px;
+}
+
+.members .pro-pic {
+    min-height: 95px;
+}
+
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    line-height: 1.3;
+    margin: 0px 0 3px;
+    font-family: Oswald,sans-serif;
+}
